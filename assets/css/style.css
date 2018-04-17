@@ -94,3 +94,17 @@ main .content img {
     margin-bottom: 25px;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    border-top: 4px solid #fff;
+    background: #232323;
+    height: 100px;
+    width: 1170px;
+    text-align: center;
+    line-height: 140px;
+}
+
+footer p {
+    color: #fff;
+}
