@@ -81,7 +81,7 @@ main .main-box h1 {
     margin-bottom: 15px;
 }
 
-main .content img {
+main .content .about-me-img {
     max-width: 275px;
     height: auto;
     float: left;
@@ -107,4 +107,34 @@ footer {
 
 footer p {
     color: #fff;
+}
+
+/* Portfolio */
+
+.item-gallery {
+    float: left;
+    width: 250px;
+    position: relative;
+    margin-right: 32px;
+    margin-bottom: 25px;
+}
+
+.item-gallery img {
+    max-width: 250px;
+    height: auto;
+}
+
+.item-gallery .block-name-item-gallery {
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
+    text-align: center;
+    background: #232323;
+    font-size: 17px;
+    color: white;
+    padding: 8px 0px 8px 0px;
+}
+
+.item-gallery:nth-child(4n+0) {
+    margin-right: 0px;
 }
