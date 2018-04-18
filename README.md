@@ -7,6 +7,18 @@ Second Homework Assignment (recommended) - Basic Portfolio
 * HTML
 * CSS
 
-## License
+### Installing
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Download the ZIP file
+
+```
+Extract all the files
+
+```
+Open index.html
+
+```
+If you want to go to the Contact Page, go for the contact.html page
+
+```
+If you wanto to go to the Portfolio Page, go to the portfolio.html page
