@@ -9,16 +9,8 @@ Second Homework Assignment (recommended) - Basic Portfolio
 
 ### Installing
 
-Download the ZIP file
-
-```
-Extract all the files
-
-```
-Open index.html
-
-```
-If you want to go to the Contact Page, go for the contact.html page
-
-```
-If you wanto to go to the Portfolio Page, go to the portfolio.html page
+* Download the ZIP file
+* Extract all the files
+* Open index.html
+* If you want to go to the Contact Page, go for the contact.html page
+* If you wanto to go to the Portfolio Page, go to the portfolio.html page
